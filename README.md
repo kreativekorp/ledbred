@@ -15,6 +15,10 @@ Led·Bred
 * 1x [Lamping Tool](https://www.digikey.com/en/products/detail/nkk-switches/AT111/1050064) (highly recommended)
 * 1x [1MΩ Through-Hole Resistor](https://www.digikey.com/en/products/detail/stackpole-electronics-inc/CF14JT1M00/1741316)
 
+## Construction Diagram
+
+![](ai/ledbred.png)
+
 ## Constructing the pen
 
 1. Use the lamping tool to replace the LED in the illuminated pushbutton with the TEPT4400 photodiode.
