@@ -2,6 +2,7 @@
 Led·Bred
 
 ## Bill of Materials
+
 * 1x [Arduino Mega 2560 R3](https://store.arduino.cc/products/arduino-mega-2560-rev3) or compatible clone
 * 1x [Screw Terminal Shield](https://www.adafruit.com/product/196)
 * 1x [MicroSD Shield](https://www.adafruit.com/product/1141)
@@ -15,6 +16,7 @@ Led·Bred
 * 1x [1MΩ Through-Hole Resistor](https://www.digikey.com/en/products/detail/stackpole-electronics-inc/CF14JT1M00/1741316)
 
 ## Constructing the pen
+
 1. Use the lamping tool to replace the LED in the illuminated pushbutton with the TEPT4400 photodiode.
 2. Blacken the side of the illuminated pushbutton's cap with a Sharpie. (This keeps out ambient light to improve detection.)
 3. Solder the illuminated pushbutton to the light pen cable.
@@ -23,10 +25,14 @@ Led·Bred
 6. Feed the light pen cable through the light pen bottom cap (`pencap2.stl`).
 7. Push the end caps into the barrel.
 
+![](ai/pen.png)
+
 ## Wiring Diagram
+
 ![](fritzing/ledbred_bb.png)
 
 ## Wiring Connections
+
 * Rotary encoder left pin to Arduino D2
 * Rotary encoder center pin to GND
 * Rotary encoder right pin to Arduino D3
