@@ -23,10 +23,10 @@ Led·Bred
 
 1. Use the lamping tool to replace the LED in the illuminated pushbutton with the TEPT4400 photodiode.
 2. Blacken the side of the illuminated pushbutton's cap with a Sharpie. (This keeps out ambient light to improve detection.)
-3. Solder the illuminated pushbutton to the light pen cable.
-4. Install the illuminated pushbutton in the light pen top cap (`pencap1.stl`).
+3. Install the illuminated pushbutton in the light pen top cap (`pencap1.stl`).
+4. Feed the light pen cable through the light pen bottom cap (`pencap2.stl`).
 5. Feed the light pen cable through the light pen barrel (`penbarrel.stl`).
-6. Feed the light pen cable through the light pen bottom cap (`pencap2.stl`).
+6. Solder the wires of the light pen cable to the pins of the illuminated pushbutton.
 7. Push the end caps into the barrel.
 
 ![](ai/pen.png)
